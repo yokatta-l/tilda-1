@@ -1,6 +1,6 @@
 Здравствуйте
 
-Ссылка на сайт - https://ponrez.github.io/tilda-1/
+Ссылка на сайт - https://yokatta-l.github.io/tilda-1/
 
 Реализованные функции
 - Сайт адаптивный
